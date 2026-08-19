@@ -1,0 +1,6 @@
+{
+  "name": "PartWorks",
+  "description": "Automotive Parts & Accessories E-Commerce Demo featuring vehicle fitment filters, catalog search, persistent cart, simulated checkout with email receipt preview, customer garage, and admin inventory dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
