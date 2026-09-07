@@ -1,20 +1,56 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# Upskill Campus
 
-# Run and deploy your AI Studio app
+A modern e-commerce web application built using React, TypeScript, and Vite.
 
-This contains everything you need to run your app locally.
+## 🌐 Live Demo
 
-View your app in AI Studio: https://ai.studio/apps/db0a17fe-5209-487d-b886-1cc900a55401
+https://upskillcampus-iota.vercel.app/
 
-## Run Locally
+## 🛠️ Technologies Used
 
-**Prerequisites:**  Node.js
+- React
+- TypeScript
+- Vite
+- HTML
+- CSS
+- JavaScript
+- Node.js
 
+## ✨ Features
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+- Product Catalog
+- Product Details
+- Shopping Cart
+- Checkout
+- Order Confirmation
+- User Login
+- Account Management
+- Deals
+- Affiliate Page
+- Admin Page
+- Currency Handling
+- Toast Notifications
+- Vehicle Selection
+- Responsive Design
+
+## 🚀 Run Locally
+
+### Prerequisites
+
+Node.js
+
+### Installation
+
+```bash
+npm install
+
+Start the Application
+npm run dev
+
+Project
+
+Developed as part of an internship/project with Upskill Campus.
+
+📄 License
+
+This project is created for educational and internship purposes.
